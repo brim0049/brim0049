@@ -8,8 +8,7 @@
 
 [<img align="left" alt="brim0049 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="brim0049 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[twitter]: https://twitter.com/Medd_lamine
-[instagram]: https://www.instagram.com/medd_lamine
+
 <br />
 
 ### Languages and Tools:
@@ -29,3 +28,6 @@
 
 <br />
 <br />
+
+[twitter]: https://twitter.com/Medd_lamine
+[instagram]: https://www.instagram.com/medd_lamine
